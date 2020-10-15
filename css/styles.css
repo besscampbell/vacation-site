@@ -1,13 +1,14 @@
 .jumbotron {
     background-color: lemonchiffon;
+    color: black
     }
 
-body, html {
+body {
+    color: white;
     background-image: url("https://www.touristsecrets.com/wp-content/uploads/2019/08/beautiful-blooming-blossom-1440476.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
-  
-}
+}}
+
