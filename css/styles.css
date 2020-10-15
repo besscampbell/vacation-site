@@ -4,11 +4,23 @@
     }
 
 body {
-    color: white;
     background-image: url("https://www.touristsecrets.com/wp-content/uploads/2019/08/beautiful-blooming-blossom-1440476.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}}
+}
+
+.card-body, .list-group-item {
+    background-color:#ffc5c2;
+   
+    text-emphasis-color: black
+
+}
+.card {
+    background: transparent;
+}
+
+
+
 
